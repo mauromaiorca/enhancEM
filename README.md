@@ -66,3 +66,7 @@ Usage: ./bin_mac/enhancEM  InputFile.mrc  [Options]
 ```
 
 # Examples of usage
+
+## Processing a 3D volume image
+![processImage](docs/process_volume_example_small.png)
+
