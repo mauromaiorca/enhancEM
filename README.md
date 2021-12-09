@@ -86,3 +86,12 @@ Input/Output of the processing:
 
 ![processImage](docs/process_volume_example_small.png)
 
+### Compute FSC
+
+Given a full map "full_rec.mrc" and the two half maps "full_recH1.mrc" "full_recH2.mrc", Fourier Shell Correlation (FSC) and other Fourier shell measures, including CRef and "mean shell amplitude" (MSA), can be computed using the command
+
+```
+enhancEM_mac full_rec.mrc --halfmaps full_recH1.mrc full_recH2.mrc --msa fsc.csv
+```
+
+the output file will be the "fsc.csv", that can be opened in any csv processors (e.g. Excel) and plotted/analysed.
