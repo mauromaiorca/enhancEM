@@ -67,6 +67,16 @@ Usage: ./bin_mac/enhancEM  InputFile.mrc  [Options]
 
 # Examples of usage
 
-## Processing a 3D volume image
+#### Processing a 3D volume image
+'''
+enhancEM virionB.mrc --o virionB_proc.mrc  --process 2.5 0.5
+'''
+Parameters:
+'''
+*virionB.mrc* input 3D volumetric image in mrc format
+*--o virionB_proc.mrc* output 3D volumetric image in mrc format
+* --process 2.5 0.5 * process image, PreProcessing sigma Blur=2.5 pixels, Post-Processing sigma blur=0.5 pixel
+'''
+Input/Output of the processing
 ![processImage](docs/process_volume_example_small.png)
 
