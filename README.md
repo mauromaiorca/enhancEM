@@ -29,7 +29,7 @@ Note: enhancEM uses FFTW. If FFTW is not detected during installation, cmake tri
  
  MacOS Catalina: [https://github.com/mauromaiorca/enhancEM/raw/main/pre-built/enhancEM_mac]( https://github.com/mauromaiorca/enhancEM/raw/main/pre-built/enhancEM_mac )
 
- Linux:
+ Linux:[https://github.com/mauromaiorca/enhancEM/raw/main/pre-built/enhancEM_linux]( https://github.com/mauromaiorca/enhancEM/raw/main/pre-built/enhancEM_linux )
 
 # Usage
 
