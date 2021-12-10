@@ -20,6 +20,8 @@ Code can be compiled using [CMake]( https://cmake.org/install/](https://cmake.or
 ```
 cmake . 
 make
+cmake .
+make
 sudo make install
 ```
 Note: enhancEM uses FFTW. If FFTW is not detected during installation, cmake tries to download and compile it. So, you need to have an active internet connection while compiling enhancEM.
