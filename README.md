@@ -1,6 +1,6 @@
 ![enhancEM](docs/logo2_small.png)
 
-enhancEM aims improve image contrast for cryoEM and cryoET data. It works with 2D and 3D images.
+enhancEM aims to improve image contrast for cryoEM and cryoET data. It works with 2D and 3D images.
 
 Additional features include FoM enhancement and FSC analysis from half maps. 
 
